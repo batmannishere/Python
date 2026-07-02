@@ -26,5 +26,5 @@ LIST METHODS
 7)listname.reverse(): Reverses the order of elements in the list.
 8)listname.count(x): Returns the number of times a value appears.
 9)listname.sort(reverse=True): Sorts the list in place descending). 
-
+10)list.copy():make a copy of list
 '''
